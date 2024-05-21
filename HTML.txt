@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bangla Smart Study</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1em 0;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            margin: 1em 0;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #333;
+        }
+        section {
+            max-width: 800px;
+            margin: 2em auto;
+            padding: 1em;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 1em 0;
+            background-color: #4CAF50;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bangla Smart Study</h1>
+        <p>Your Gateway to Success in Competitive Exams</p>
+    </header>
+    <nav>
+        <a href="#about">About Us</a>
+        <a href="#exams">Exams Covered</a>
+        <a href="#resources">Resources</a>
+        <a href="#blog">Blog</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Welcome to Bangla Smart Study, your one-stop solution for preparing for various competitive exams including PSC, WBCS, WBP, KP, and other state exams. Our mission is to provide comprehensive study materials and resources to help you succeed.</p>
+    </section>
+    <section id="exams">
+        <h2>Exams Covered</h2>
+        <ul>
+            <li>PSC (Public Service Commission)</li>
+            <li>WBCS (West Bengal Civil Service)</li>
+            <li>WBP (West Bengal Police)</li>
+            <li>KP (Kolkata Police)</li>
+            <li>All Other State Exams</li>
+        </ul>
+    </section>
+    <section id="resources">
+        <h2>Resources</h2>
+        <p>Our extensive range of study materials, mock tests, and practice papers are designed to provide you with the edge you need to excel in your exams.</p>
+    </section>
+    <section id="blog">
+        <h2>Blog</h2>
+        <p>Stay tuned for the latest updates, tips, and strategies to boost your preparation for competitive exams.</p>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>For any queries or support, please contact us at: <a href="mailto:info@banglasmartstudy.com">info@banglasmartstudy.com</a></p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Bangla Smart Study. All rights reserved.</p>
+    </footer>
+</body>
+</html>
